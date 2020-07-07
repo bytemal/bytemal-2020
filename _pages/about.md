@@ -1,5 +1,6 @@
 ---
 title: About ByteMAL
+permalink: /about
 layout: default
 ---
 
