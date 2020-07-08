@@ -1,5 +1,5 @@
 ---
-title:     ByteMAL 2020 Program
+title:     ByteMAL 2020 Registration
 permalink: /register
 layout:    default
 ---
