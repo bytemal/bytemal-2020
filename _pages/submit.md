@@ -14,7 +14,7 @@ During the conference, there will be a ByteMAL sharing session, where participan
 ## Call for Abstracts
 - Submission of the abstract via email to byteMALevents@gmail.com
 - Deadline: **August 31st**
-- Template for abstracts: [template](https://github.com/bytemal/bytemal-2020/blob/master/ByteMAL2020_NAME_abstract_v2.docx)
+- Template for abstracts: [template](https://github.com/bytemal/bytemal-2020/ByteMAL2020_NAME_abstract_v2.docx)
 
 ## Guidelines for Submission
 Participants are encouraged to submit their research in the form of a poster, video or other digital formats, with the restriction that it may be shared on the conference website.
