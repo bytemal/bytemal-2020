@@ -1,5 +1,5 @@
 ---
-title:     ByteMAL 2020 Program
+title:     ByteMAL 2020 Call for Abstracts
 permalink: /submit
 layout:    default
 ---
