@@ -4,7 +4,7 @@ permalink: /submit
 layout:    default
 ---
 
-## Abstract submission
+# Abstract submission
 
 ### ByteMAL sharing session
 Share your knowledge!
