@@ -4,8 +4,10 @@ permalink: /register
 layout:    default
 ---
 
-# ByteMAL 2020 Registration
+# Registration
 
-In order to register to ByteMAL 2020, please follow the link below.
+In order to register to virtually attend ByteMAL 2020 Online, please follow the link below and complete the google form.
 
 **[REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSci9vJlwBg8W7eggVZu8zQQ7XDPPTHfOB4XVNoyr_-SvqiVcA/viewform?usp=sf_link)**
+
+**Save the date: 14th October 2020**
