@@ -13,18 +13,4 @@ table{
 th{ border:2px solid ;  padding: 15px; }
 td{ border:1px solid ;  padding: 15px; }
 
-/* sticky footer from https://css-tricks.com/couple-takes-sticky-footer/ */
-html, body {
-  height: 100%;
-}
-body {
-  display: flex;
-  flex-direction: column;
-}
-.content {
-  flex: 1 0 auto;
-}
-.footer {
-  flex-shrink: 0;
-}
 
