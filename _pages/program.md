@@ -4,7 +4,7 @@ permalink: /program
 layout:    default
 ---
 
-## Online program
+# Online program
 
 Be inspired by our keynotes, share your own projects and ideas, 
 and discover other exciting science going on in the [Meuse-Rhine Euregion](https://en.wikipedia.org/wiki/Meuse%E2%80%93Rhine_Euroregion) and beyond!
