@@ -4,7 +4,7 @@ permalink: /register
 layout:    default
 ---
 
-## Registration
+# Registration
 
 In order to register to virtually attend ByteMAL 2020 Online, please follow the link below and complete the google form.
 
