@@ -9,7 +9,9 @@ layout:    default
 Be inspired by our keynotes, share your own projects and ideas, 
 and discover other exciting science going on in the [Meuse-Rhine Euregion](https://en.wikipedia.org/wiki/Meuse%E2%80%93Rhine_Euroregion) and beyond!
 
-## Three exciting keynote speakers - *provisionally confirmed*
+## Three exciting keynote speakers
+
+*ALL PROVISIONALLY CONFIRMED*
 
 - **[Dr Ruud van Sloun](https://www.tue.nl/en/research/researchers/ruud-van-sloun/)**
 - **[Dr Thomas Exner](https://www.edelweissconnect.com/team-dc/thomas-exner)**
