@@ -4,5 +4,13 @@ a:hover { text-decoration: underline; }
 
 h1, h2, h3, h4 { color: #133346; }
 
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #ff0000;
+}
+th{ border:2px solid #000000; }
+td{ border:1px solid #000000; }
+
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
