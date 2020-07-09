@@ -4,12 +4,12 @@ permalink: /program
 layout:    default
 ---
 
-# ByteMAL 2020 online program
+## Online program
 
 Be inspired by our keynotes, share your own projects and ideas, 
 and discover other exciting science going on in the [Meuse-Rhine Euregion](https://en.wikipedia.org/wiki/Meuse%E2%80%93Rhine_Euroregion) and beyond!
 
-## Three exciting keynote speakers
+### Three keynote speakers
 
 *ALL PROVISIONALLY CONFIRMED*
 
@@ -17,14 +17,15 @@ and discover other exciting science going on in the [Meuse-Rhine Euregion](https
 - **[Dr Thomas Exner](https://www.edelweissconnect.com/team-dc/thomas-exner)**
 - **[Dr Isabelle Laforest-Lapointe](https://isabellelaforestlapointe.wordpress.com/)**
 
-## Virtual poster sessions
+### Virtual poster sessions
 
 Link to submission/registration coming soon.
 
-## Virtual flashtalks
+### Virtual flashtalks
 
 Link to submission/registration coming soon.
 
+### Provisional schedule 
 
 | Time      | Description |
 | :---        |    :----   |
@@ -40,3 +41,5 @@ Link to submission/registration coming soon.
 | 15.45 – 16.45  | Keynote Presentation: [Dr Isabelle Laforest-Lapointe](https://isabellelaforestlapointe.wordpress.com/)   |
 | 16.45 – 17.15  | Closing       |
 {:.table-striped}
+
+
