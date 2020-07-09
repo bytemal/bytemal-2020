@@ -11,31 +11,29 @@
 	<link rel="stylesheet" type="text/css" href="/bytemal-2020/css/main.css">
 	
 </head>
+<body>	
+	<div class="container">
+	
+		<a href="/bytemal-2020/"><img src="/bytemal-2020/images/bytemal_2020.png" alt="ByteMAL_2020_logo" style="width:750px;height:147px;"></a>
 
-		<body>
+		<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+		<div class="navbar-nav">
+			<a class="nav-item nav-link" href="/bytemal-2020">Home</a>
+			<a class="nav-item nav-link" href="/bytemal-2020/about">About</a>
+			<a class="nav-item nav-link" href="/bytemal-2020/program">Program</a>
+			<a class="nav-item nav-link" href="/bytemal-2020/register">Register</a>
+			<a class="nav-item nav-link" href="/bytemal-2020/submit">Submit</a>
+		</div>
+		</nav>
+
+		{{ content }}
+			
+		<footer>
+			<ul>
+				<li><a href="https://github.com/bytemal/bytemal-2020">github.com/bytemal/bytemal-2020</a></li>
+			</ul>
+		</footer>
 		
-			<a href="/bytemal-2020/"><img src="/bytemal-2020/images/bytemal_2020.png" alt="ByteMAL_2020_logo" style="width:750px;height:147px;"></a>
-
-			<nav class="navbar navbar-dark bg-dark">
-			<div class="navbar-nav">
-			      	<a class="nav-item nav-link" href="/bytemal-2020">Home</a>
-				<a class="nav-item nav-link" href="/bytemal-2020/about">About</a>
-              			<a class="nav-item nav-link" href="/bytemal-2020/program">Program</a>
-	        		<a class="nav-item nav-link" href="/bytemal-2020/register">Register</a>
-	        		<a class="nav-item nav-link" href="/bytemal-2020/submit">Submit</a>
-			</div>
-			</nav>
-	    		
-			<div class="container">
-			
-				{{ content }}
-			
-			</div><!-- /.container -->
-			
-			<footer>
-	    			<ul>
-	        		<li><a href="https://github.com/bytemal/bytemal-2020">github.com/bytemal/bytemal-2020</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+	</div><!-- /.container -->
+</body>
+</html>
