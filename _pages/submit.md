@@ -6,10 +6,11 @@ layout:    default
 
 # Abstract submission
 
-### ByteMAL sharing session
-Share your knowledge!
+**Share your work!**
 
-During the conference, there will be a ByteMAL sharing session, where participants get the chance to present their research and show their current results or products by means of a poster, or any type of digital format. In order to share your work at the conference, please submit an abstract using the template below. In addition, authors who submit an abstract will have a chance to present their work in a flash talk session during the conference. The submitted abstracts will be evaluated and nominated for a **7 minute** flash talk by the organizing committee. If you would like us to consider your abstract for a flash talk, please remember to tick the corresponding box in the abstract template!
+During the conference, there will be a ByteMAL *sharing session*, where participants get the chance to present their research and show their current ideas, results or products by means of a poster or any other type of digital format. In order to share your work at the conference, please submit an abstract using the template below. 
+
+In addition, authors who submit an abstract will have a chance to present their work in a flash talk session during the conference. The submitted abstracts will be evaluated and nominated for a **7 minute** flash talk by the organizing committee. If you would like us to consider your abstract for a flash talk, please remember to tick the corresponding box in the abstract template!
 
 ### Call for Abstracts
 - Submission of the abstract via email to byteMALevents@gmail.com
