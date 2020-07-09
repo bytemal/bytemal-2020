@@ -35,6 +35,6 @@ Link to submission/registration coming soon.
 | 13.30 – 14.00  | Flash talks      |
 | 14.00 – 15.30  | ByteMAL sharing sessions       |
 | 15.30 - 15.45  | Coffee break      |
-| 15.45 – 16.45  | Keynote Presentation: |
-||[Dr Isabelle Laforest-Lapointe](https://isabellelaforestlapointe.wordpress.com/)        |
+| 15.45 – 16.45  | Keynote Presentation: [Dr Isabelle Laforest-Lapointe](https://isabellelaforestlapointe.wordpress.com/)   |
 | 16.45 – 17.15  | Closing       |
+{:.table-striped}
