@@ -21,21 +21,44 @@
 					      style="width:750px;max-width:100%;height:auto;margin-top:50px;margin-bottom:20px;">
 		</a>
 		
-		<nav class="navbar navbar-expand-md navbar-light bg-light sticky-top mt-3" style="margin-bottom:30px">
-			<button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+			<a class="navbar-brand" href="#">Navbar</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
-			<div class="collapse navbar-collapse" id="navbarCollapse">
-				<div class="navbar-nav">      
-					<a class="nav-item nav-link" href="/bytemal-2020">Home</a>
-					<a class="nav-item nav-link" href="/bytemal-2020/about">About</a>
-					<a class="nav-item nav-link" href="/bytemal-2020/program">Program</a>
-					<a class="nav-item nav-link" href="/bytemal-2020/register">Register</a>
-					<a class="nav-item nav-link" href="/bytemal-2020/submit">Submit</a>
-				</div>
+			
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav mr-auto">
+					<li class="nav-item">
+						<a class="nav-link" href="/bytemal-2020">Home</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="/bytemal-2020/about">About</a>
+					</li>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="/bytemal-2020/program">Program</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="/bytemal-2020/register">Register</a>
+					</li>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							Submit
+						</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+							<a class="dropdown-item" href="/bytemal-2020/submit">Submit Abstract</a>
+							<a class="dropdown-item" href="/bytemal-2020/submission-guidelines">Submission guidelines</a>
+						</div>
+					</li>
+				</ul>
+				<form class="form-inline my-2 my-lg-0">
+					<input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+					<button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+				</form>
 			</div>
 		</nav>
-		
+				
 		<div class="content">
 			{{ content }}
 		</div>
