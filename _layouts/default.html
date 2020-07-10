@@ -20,21 +20,26 @@
 		<a href="/bytemal-2020/"><img src="/bytemal-2020/images/bytemal_2020.png" alt="ByteMAL_2020_logo" 
 					      style="width:750px;max-width:100%;height:auto;margin-top:50px;margin-bottom:20px;">
 		</a>
-
-		<nav class="navbar navbar-expand-lg navbar-light bg-light" style="margin-bottom:30px">
-		<div class="navbar-nav">
-			<a class="nav-item nav-link" href="/bytemal-2020">Home</a>
-			<a class="nav-item nav-link" href="/bytemal-2020/about">About</a>
-			<a class="nav-item nav-link" href="/bytemal-2020/program">Program</a>
-			<a class="nav-item nav-link" href="/bytemal-2020/register">Register</a>
-			<a class="nav-item nav-link" href="/bytemal-2020/submit">Submit</a>
-		</div>
+		
+		<nav class="navbar navbar-expand-md navbar-light bg-light sticky-top mt-3" style="margin-bottom:30px">
+			<button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarCollapse">
+				<div class="navbar-nav">      
+					<a class="nav-item nav-link" href="/bytemal-2020">Home</a>
+					<a class="nav-item nav-link" href="/bytemal-2020/about">About</a>
+					<a class="nav-item nav-link" href="/bytemal-2020/program">Program</a>
+					<a class="nav-item nav-link" href="/bytemal-2020/register">Register</a>
+					<a class="nav-item nav-link" href="/bytemal-2020/submit">Submit</a>
+				</div>
+			</div>
 		</nav>
 		
 		<div class="content">
-		{{ content }}
+			{{ content }}
 		</div>
-			
+	
 	</div><!-- /.container -->
 </body>
 </html>
