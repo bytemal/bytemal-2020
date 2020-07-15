@@ -4,7 +4,7 @@ permalink:  /about
 layout:     default
 ---
 
-# About the ByteMAL conference
+# About the byteMAL conference
   
 **Save the date! 14th October 2020**
 
