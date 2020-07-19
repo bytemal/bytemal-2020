@@ -13,10 +13,10 @@ and discover other exciting science going on in the [Meuse-Rhine Euregion](https
 
 *ALL PROVISIONALLY CONFIRMED*
 
-<div class="card mb-3" style="max-width: 540px;">
+<div class="card container-md mb-3">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="/bytemal-2020/images/ruud.jpg" class="card-img rounded" alt="Ruud van Sloun" style="max-height: 60px;">
+      <img src="/bytemal-2020/images/ruud.jpg" class="card-img rounded" alt="Ruud van Sloun">
     </div>
     <div class="col-md-8">
       <div class="card-body">
@@ -28,10 +28,10 @@ and discover other exciting science going on in the [Meuse-Rhine Euregion](https
   </div>
 </div>
 
-<div class="card mb-3" style="max-width: 540px;">
+<div class="card container-md mb-3">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="/bytemal-2020/images/thomas.jpg" class="card-img rounded" alt="Thomas Exner" style="max-height: 60px;">
+      <img src="/bytemal-2020/images/thomas.jpg" class="card-img rounded" alt="Thomas Exner">
     </div>
     <div class="col-md-8">
       <div class="card-body">
@@ -43,10 +43,10 @@ and discover other exciting science going on in the [Meuse-Rhine Euregion](https
   </div>
 </div>
 
-<div class="card mb-3" style="max-width: 540px;">
+<div class="card container-md mb-3">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="/bytemal-2020/images/isabelle.jpg" class="card-img rounded" alt="Isabelle Laforest-Lapointe" style="max-height: 60px;">
+      <img src="/bytemal-2020/images/isabelle.jpg" class="card-img rounded" alt="Isabelle Laforest-Lapointe">
     </div>
     <div class="col-md-8">
       <div class="card-body">
