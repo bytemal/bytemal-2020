@@ -13,7 +13,7 @@ Be inspired by our keynotes, share your own projects and ideas, and discover oth
 ###### ALL PROVISIONALLY CONFIRMED
 
 
-<div class="card container-md mb-3" style="max-height: 200px>
+<div class="card container-md mb-3" style="max-height: 200px">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="/bytemal-2020/images/ruud.jpg" class="card-img rounded" alt="Ruud van Sloun">
@@ -28,7 +28,7 @@ Be inspired by our keynotes, share your own projects and ideas, and discover oth
   </div>
 </div>
 
-<div class="card container-md mb-3">
+<div class="card container-md mb-3" style="max-height: 200px">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="/bytemal-2020/images/thomas.jpg" class="card-img rounded" alt="Thomas Exner">
@@ -43,7 +43,7 @@ Be inspired by our keynotes, share your own projects and ideas, and discover oth
   </div>
 </div>
 
-<div class="card container-md mb-3">
+<div class="card container-md mb-3" style="max-height: 200px">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="/bytemal-2020/images/isabelle.jpg" class="card-img rounded" alt="Isabelle Laforest-Lapointe">
