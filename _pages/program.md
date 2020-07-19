@@ -16,7 +16,7 @@ Be inspired by our keynotes, share your own projects and ideas, and discover oth
 <div class="card container-md mb-3" style="max-height: 200px">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="/bytemal-2020/images/ruud.jpg" class="card-img rounded" alt="Ruud van Sloun">
+      <img src="/bytemal-2020/images/ruud.jpg" class="card-img rounded" alt="Ruud van Sloun" style="object-fit: contain; max-height: 100%">
     </div>
     <div class="col-md-8">
       <div class="card-body">
@@ -31,7 +31,7 @@ Be inspired by our keynotes, share your own projects and ideas, and discover oth
 <div class="card container-md mb-3" style="max-height: 200px">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="/bytemal-2020/images/thomas.jpg" class="card-img rounded" alt="Thomas Exner">
+      <img src="/bytemal-2020/images/thomas.jpg" class="card-img rounded" alt="Thomas Exner" style="object-fit: contain; max-height: 100%">
     </div>
     <div class="col-md-8">
       <div class="card-body">
@@ -46,7 +46,7 @@ Be inspired by our keynotes, share your own projects and ideas, and discover oth
 <div class="card container-md mb-3" style="max-height: 200px">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="/bytemal-2020/images/isabelle.jpg" class="card-img rounded" alt="Isabelle Laforest-Lapointe">
+      <img src="/bytemal-2020/images/isabelle.jpg" class="card-img rounded" alt="Isabelle Laforest-Lapointe" style="object-fit: contain; max-height: 100%">
     </div>
     <div class="col-md-8">
       <div class="card-body">
