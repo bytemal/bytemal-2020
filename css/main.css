@@ -10,4 +10,7 @@ table{
 th{ border:2px solid ;  padding: 15px; }
 td{ border:1px solid ;  padding: 15px; }
 
-
+.card-img{
+  object-fit: contain; 
+  max-height: 200px;
+}
