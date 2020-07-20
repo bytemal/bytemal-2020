@@ -17,11 +17,7 @@ In addition, authors who submit an abstract will have a chance to present their 
 - Deadline: **August 31st**
 - Template for abstracts: [click here to download](https://github.com/bytemal/bytemal-2020/blob/master/ByteMAL2020_NAME_abstract_v2.docx?raw=true)
 
-### Guidelines for posters and other submissions
-Participants are encouraged to submit their research in the form of a poster, video or other digital formats.
-
-If accepted, posters and other self-contained digital submissions will be hosted publicly on this conference website. 
-
-For any accepted digital submissions that cannot be hosted directly on this static website, we will host a link to your self-hosted submission alongside a concise summary.
+<!--### Guidelines for posters and other submissions
+Participants are encouraged to submit their research in the form of a poster, video or other digital formats. If accepted, posters and other self-contained digital submissions will be hosted publicly on this conference website. For any accepted digital submissions that cannot be hosted directly on this static website, we will host a link to your self-hosted submission alongside a concise summary.-->
 
 **Further details coming soon!**
