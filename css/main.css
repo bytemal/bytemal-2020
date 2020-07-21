@@ -14,3 +14,10 @@ td{ border:1px solid ;  padding: 15px; }
   object-fit: contain; 
   max-height: 200px;
 }
+
+.card-img-top{
+  object-fit: contain;
+  max-height: 100px;
+  border: 2px solid black;
+  border-radius: 4px;
+}
