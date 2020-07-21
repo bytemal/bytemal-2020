@@ -56,7 +56,7 @@ Be inspired by our keynotes, share your own projects and ideas, and discover oth
     </div>
   </div>
 </div>
-<br><br>
+<br>
 
 ### byteMAL "sharing sessions"
 
