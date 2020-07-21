@@ -3,13 +3,6 @@ html { overflow-y: scroll; }
 
 h1, h2, h3, h4 { color: #133346; }
 
-/* fix overflowing jumbotron title on homepage */ 
-@include media-breakpoint-up(sm) {
-  display-4 {
-    font-size: 2rem;
-  }
-}
-
 /* keynote horizontal card pics */
 .card-img{
   object-fit: contain; 
