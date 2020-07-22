@@ -52,6 +52,7 @@ td{ border:1px solid ;  padding: 15px; }
 .card-footer {
   box-shadow: 0; /* this adds the "card" effect */
   padding: 16px;
+  border: 0px;
   text-align: center;
   background-color: #FFFFFF;
 }
