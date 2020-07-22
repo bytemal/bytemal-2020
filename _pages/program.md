@@ -22,7 +22,8 @@ layout:    default
 | 16:45 – 17:15 | Prize giving and closing              |
 {:.table-bordered .table-hover}
 
-Note: all times in CEST {:.small}
+
+<p><small>Note: all times in CEST </small></p>
 
 ### byteMAL "sharing sessions" {#sharing}
 
