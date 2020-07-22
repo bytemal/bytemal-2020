@@ -5,10 +5,9 @@ layout:    default
 ---
 
 ## Provisional schedule 
-<br>
 
-| Time          | Description |
-| :-----------: | :----       |
+| Time (*CEST*) | Description |
+| :-----------: | :---------: |
 | 09:55 – 10:00 | "Arrival"                             |
 | 10:00 – 10:15 | Opening                               |
 | 10:15 – 11:15 | Keynote Presentation: Ruud van Sloun  |
@@ -20,10 +19,8 @@ layout:    default
 | 15:30 - 15:45 | Coffee break                          |
 | 15:45 – 16:45 | Keynote Presentation: [Isabelle Laforest-Lapointe](https://isabellelaforestlapointe.wordpress.com/)   |
 | 16:45 – 17:15 | Prize giving and closing              |
-{:.table-bordered .table-hover}
+{:.table-bordered .table-hover .my-4}
 
-
-<p><small>Note: all times in CEST </small></p>
 
 ### byteMAL "sharing sessions" {#sharing}
 
@@ -32,6 +29,7 @@ Share your work during our "sharing sessions." (*It's like a poster session but 
 Registered participants can submit an abstract for an animated or interactive poster, short video or other media. 
 If your abstract is accepted, your submission will be hosted on our website and briefly presented during one of the small-group sharing sessions. 
 Submitting a traditional poster format as a pdf is also possible!
+
 
 ### Virtual flashtalks {#flashtalks}
 
