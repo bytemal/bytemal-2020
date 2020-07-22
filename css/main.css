@@ -30,7 +30,7 @@ td{ border:1px solid ;  padding: 15px; }
   box-sizing: border-box;
 }
 
-/* Float four columns side by side */
+/* Float three columns side by side */
 .column {
   object-fit: contain; 
   float: left;
