@@ -18,11 +18,11 @@ layout:    default
 | 14:00 – 15:30 | [byteMAL sharing sessions](#sharing)  |
 | 15:30 - 15:45 | Coffee break                          |
 | 15:45 – 16:45 | Keynote Presentation: [Isabelle Laforest-Lapointe](https://isabellelaforestlapointe.wordpress.com/)   |
-| 16:45 – 17:15 | Prize giving and closing              |
+| 16:45 – 17:15 | Prize-giving and closing              |
 {:.table-bordered .table-hover .my-4}
 
 
-### byteMAL "sharing sessions" {#sharing}
+### byteMAL sharing sessions {#sharing}
 
 Share your work during our "sharing sessions." (*It's like a poster session but better!*)
 
