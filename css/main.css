@@ -51,6 +51,7 @@ td{ border:1px solid ;  padding: 15px; }
 /* Style the counter cards */
 .card-footer {
   box-shadow: 0; /* this adds the "card" effect */
+  border: 0;
   padding: 16px;
   text-align: center;
   background-color: #FFFFFF;
