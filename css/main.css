@@ -18,12 +18,8 @@ h1, h2, h3, h4 { color: #133346; }
 }
 
 /* agenda table on program page */
-table{
-    border-collapse: collapse;
-    border:2px solid ;
-}
-th{ border:2px solid ;  padding: 15px; }
-td{ border:1px solid ;  padding: 15px; }
+th{ padding: 10px; }
+td{ padding: 10px; }
 
 /* shit added by balazs */
 * {
