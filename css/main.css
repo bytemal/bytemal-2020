@@ -32,6 +32,7 @@ td{ border:1px solid ;  padding: 15px; }
 
 /* Float four columns side by side */
 .column {
+  object-fit: contain; 
   float: left;
   width: 33%;
   padding: 0 10px;
@@ -49,10 +50,10 @@ td{ border:1px solid ;  padding: 15px; }
 
 /* Style the counter cards */
 .card-footer {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  box-shadow: 0; /* this adds the "card" effect */
   padding: 16px;
   text-align: center;
-  background-color: #f1f1f1;
+  background-color: #FFFFFF;
 }
 
 /* Responsive columns - one column layout (vertical) on small screens */
