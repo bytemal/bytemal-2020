@@ -5,7 +5,7 @@ layout: default
 ---
 
 <div class="row">
-  <div class="col-sm-8">
+  <div class="col-sm-8 px-3">
     <h2 id="about-the-bytemal-conference">About the byteMAL conference</h2>
     <p>*This site is still under construction, but do check back later for updates, 
     and don’t forget to <a href="/bytemal-2020/register">register your interest</a>!</p>
@@ -21,12 +21,10 @@ layout: default
     tools, challenges and successes with people of similar mindset. 
     Participants will have the opportunity to be inspired by our interesting <a href="/bytemal-2020/program">keynote speakers</a>, 
     <a href="/bytemal-2020/submit">present their own work</a>, and <a href="/bytemal-2020/register">discuss</a> ideas, tools and approaches with each other.</p>
-
   </div>
   
-  <div class="col-sm-4">
-    <a class="twitter-timeline" data-lang="en" data-height="1000" data-dnt="true" href="https://twitter.com/byteMAL?ref_src=twsrc%5Etfw">Tweets by byteMAL</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
-    
+  <div class="col-sm-4 px-3">
+    <a class="twitter-timeline" data-lang="en" data-height="800" data-dnt="true" data-theme="dark" href="https://twitter.com/byteMAL?ref_src=twsrc%5Etfw">Tweets by byteMAL</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
   </div>
   
 </div>
