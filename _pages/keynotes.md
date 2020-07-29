@@ -4,9 +4,7 @@ permalink: /keynotes
 layout:    default
 ---
 
-## Three keynote speakers
-
-###### PROVISIONALLY CONFIRMED
+## Keynote speakers
 
 <div class="card mb-3" style="max-width: 960px;">
   <div class="row no-gutters">
