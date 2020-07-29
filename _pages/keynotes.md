@@ -6,6 +6,7 @@ layout:    default
 
 ## Keynote speakers
 
+
 <div class="card mb-3" style="max-width: 960px;">
   <div class="row no-gutters">
     <div class="col-md-4">
