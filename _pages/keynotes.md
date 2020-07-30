@@ -16,6 +16,10 @@ layout:    default
         <h5 class="card-title"><a href="https://www.tue.nl/en/research/researchers/ruud-van-sloun/">Ruud van Sloun</a></h5>
         <p class="card-text font-weight-bold">Assistant Professor in Signal Processing Systems at TU Eindhoven</p>
         <p class="card-text">Ruud works on advanced and intelligent sensing and signal processing algorithms, with a special focus on artificial intelligence in diagnostic ultrasound imaging.</p>
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#ruudModal">
+        Read abstract here
+        </button>
       </div>
     </div>
   </div>
@@ -51,4 +55,25 @@ layout:    default
   </div>
 </div>
 <br>
+
+
+<!-- Ruud's Modal -->
+<div class="modal fade" id="ruudModal" tabindex="-1" role="dialog" aria-labelledby="ruudModal" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title" id="ruudModalLabel">Ruud's abstract</h4>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        Abstract placeholder text <br><br><br> Testing testing.
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
 
