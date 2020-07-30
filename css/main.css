@@ -1,7 +1,8 @@
 
 html { overflow-y: scroll; }
 
-h1, h2, h3, h4 { color: #133346; }
+h2 { color: #0088cc }
+h1, h3, h4 { color: #133346; }
 
 /* keynote horizontal card pics */
 .card-img{
