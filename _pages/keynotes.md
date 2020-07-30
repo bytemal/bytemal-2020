@@ -8,8 +8,8 @@ layout:    default
 
 <div class="card mb-3" style="max-width: 960px;">
   <div class="row no-gutters">
-    <div class="col-md-4">
-      <img src="/bytemal-2020/images/ruud.jpg" class="card-img rounded-lg my-auto" alt="Ruud van Sloun">
+    <div class="col-md-4" style="display:flex;align-items:center;">
+      <img src="/bytemal-2020/images/ruud.jpg" class="card-img rounded-lg" alt="Ruud van Sloun">
     </div>
     <div class="col-md-8">
       <div class="card-body">
@@ -25,8 +25,8 @@ layout:    default
 
 <div class="card mb-3" style="max-width: 960px;">
   <div class="row no-gutters">
-    <div class="col-md-4">
-      <img src="/bytemal-2020/images/thomas.jpg" class="card-img rounded-lg my-auto" alt="Thomas Exner">
+    <div class="col-md-4" style="display:flex;align-items:center;">
+      <img src="/bytemal-2020/images/thomas.jpg" class="card-img rounded-lg" alt="Thomas Exner">
     </div>
     <div class="col-md-8">
       <div class="card-body">
@@ -42,8 +42,8 @@ layout:    default
 
 <div class="card mb-3" style="max-width: 960px;">
   <div class="row no-gutters">
-    <div class="col-md-4">
-      <img src="/bytemal-2020/images/isabelle.jpg" class="card-img rounded-lg my-auto" alt="Isabelle Laforest-Lapointe">
+    <div class="col-md-4" style="display:flex;align-items:center;">
+      <img src="/bytemal-2020/images/isabelle.jpg" class="card-img rounded-lg" alt="Isabelle Laforest-Lapointe">
     </div>
     <div class="col-md-8">
       <div class="card-body">
