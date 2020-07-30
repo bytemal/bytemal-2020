@@ -22,7 +22,8 @@ layout:    default
 {:.table-bordered .table-hover .my-4}
 
 
-### byteMAL sharing sessions {#sharing}
+
+## byteMAL sharing sessions {#sharing}
 
 Share your work during our "sharing sessions." (*It's like a poster session but better!*)
 
@@ -31,7 +32,7 @@ If your abstract is accepted, your submission will be hosted on our website and 
 Submitting a traditional poster format as a pdf is also possible!
 
 
-### Virtual flashtalks {#flashtalks}
+## Virtual flashtalks {#flashtalks}
 
 A few of the best abstracts will also be selected for a 7-minute flashtalk presentation, which can be instead of, or in addition to, your digital media submission.
 

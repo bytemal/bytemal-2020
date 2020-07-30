@@ -7,8 +7,8 @@ layout: default
 <div class="row">
   <div class="col-sm-8 px-3">
     <h2 id="about-the-bytemal-conference">About the byteMAL conference</h2>
-    <p>*This site is still under construction, but do check back later for updates, 
-    and don’t forget to <a href="/bytemal-2020/register">register your interest</a>!</p>
+    <p>This site is still under development: do check back later for updates, and don’t forget to 
+    <a href="/bytemal-2020/register">register your interest</a>!</p>
     <p><strong>byteMAL</strong> is a conference created by and for early-career researchers in the fields of bioinformatics and systems biomedicine, 
     and aims to provide a networking platform for knowledge and expertise exchange across borders. 
     All are welcome to <a href="/bytemal-2020/register">attend</a> and <a href="/bytemal-2020/submit">present</a> at
