@@ -4,7 +4,7 @@ permalink: /keynotes
 layout:    default
 ---
 
-## Keynote speakers
+<h2 class="mb-4">Keynote speakers</h2>
 
 <div class="card mb-3" style="max-width: 960px;">
   <div class="row no-gutters">
