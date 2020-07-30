@@ -34,6 +34,9 @@ layout:    default
         <h5 class="card-title"><a href="https://www.edelweissconnect.com/team-dc/thomas-exner">Thomas Exner</a></h5>
         <p class="card-text font-weight-bold">Chief Scientific Officer at Edelweiss Connect</p>
         <p class="card-text">Thomas is responsible for the scientific planning, execution and supervision of commercial projects in the area of data management and integrated testing strategy development for risk/safety assessment of chemicals, drugs and nano materials.</p>
+        <button type="button" class="btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#thomasModal">
+        See more
+        </button>
       </div>
     </div>
   </div>
@@ -74,6 +77,29 @@ layout:    default
         <p>Ruud JG van Sloun (Member, IEEE) received the B.Sc. and M.Sc. degrees (cum laude) in electrical engineering and the Ph.D. degree (cum laude) from the Eindhoven University of Technology, Eindhoven, The Netherlands, in 2012, 2014, and 2018, respectively. Since then, he has been an Assistant Professor with the Department of Electrical Engineering at the Eindhoven University of Technology and since January 2020 a Kickstart-AI fellow at Philips Research, Eindhoven. From 2019-2020 he was also a Visiting Professor with the Department of Mathematics and Computer Science at the Weizmann Institute of Science, Rehovot, Israel. He is a NWO Rubicon laurate and received a Google Faculty Research Award in 2020. His current research interests include artificial intelligence and deep learning for front-end (ultrasound) signal processing, model-based deep learning, compressed sensing, ultrasound imaging, and probabilistic signal and image analysis.</p>
         <h6>ABSTRACT</h6>
         <p>His talk will elaborate on deep learning strategies in ultrasound systems, from the front-end to advanced applications, thereby discussing the possible impact of deep learning methodologies on many aspects of ultrasound imaging. In particular, it will outline methods that lie at the interface of signal acquisition and machine learning, exploiting both data structure (e.g. sparsity in some domain) and data dimensionality (big data) already at the raw radio-frequency channel stage. Several illustrative examples will be given, covering efficient and effective deep learning solutions for adaptive beamforming and adaptive spectral Doppler through artificial agents, learning of compressive encodings for color Doppler, and a framework for structured signal recovery by learning fast approximations of iterative minimization problems, with applications to clutter suppression and super-resolution ultrasound. These emerging technologies may have a considerable impact on ultrasound imaging, showing promise across key components in the receive processing chain.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Thomas' Modal -->
+<div class="modal fade" id="thomasModal" tabindex="-1" role="dialog" aria-labelledby="thomasModal" aria-hidden="true">
+  <div class="modal-dialog .modal-dialog-scrollable .modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title" id="thomasModalLabel">Thomas Exner's abstract</h4>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <h6>ABSTRACT</h6>
+        <p>Our scientific culture is driven by the need for constantly producing headlines and getting recognized by scoring high in measures like impact factors for journals and H factors for individuals. However, this has led to very inefficient usage of resources by not encouraging sharing and the reuse of data from others. Additionally, there are areas where individuals or even individual groups are not able to provide all evidence to come to conclusive results. One of these areas is toxicology and the related topics of risk assessment and especially nanosafety. The paradigm shift from an animal-experiment-based to a mechanistically-driven science based on in vitro and in silico studies made it necessary to combine data from many different experiments to describe hazard, risk and, for nanomaterials extremely important, physicochemical characterization into integrated approaches to testing and assessment (IATA). Large EU funded consortia developing such approaches clearly demonstrated that early, well documented data sharing is the only possible way to cover this complexity and validate the approaches to achieve regulatory acceptance.</p>
+        <p>Many sophisticated systems for data management exits developed by companies, infrastructure or individual research projects and initiatives like NanoCommons, ELIXIR and now the European Open Science Cloud (EOSC) are bringing these together into larger and larger data platforms spanning multiple communities. However, this is only one part of the story. Researchers generating the data are still reluctant to share their data fearing to lose their competitive advantage. Additionally, collecting a sufficient amount of metadata to describe the data to be understandable by others is a time consuming task and is often postponed until the last minute. In this talk, I will present how a designated data shepherd can support the data providers and data curators to prepare the datasets for upload, discuss with database managers and management/sharing tool developers on how to best support the generation, annotation and upload, and generate a clear legal and ethics framework to remove sentiments on losing control and intellectual properties. In a forthcoming paper [1] the data shepherd is defined as <em>“an enhanced version of a data steward, who not only oversees the data management, handling and quality control processes, but can communicate in a clear and simple language with all parties and resolve any misunderstandings”</em>.</p>
+        <p>[1] Metadata stewardship in nanosafety research: community-driven organisation of metadata schemas to support FAIR nanoscience data, Anastasios G. Papadiamantis, Frederick C. Klaessig, Thomas E. Exner, Sabine Hofer, et al., in preparation.</p>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
