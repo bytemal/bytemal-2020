@@ -9,16 +9,15 @@ layout:    default
 <div class="card mb-3" style="max-width: 960px;">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="/bytemal-2020/images/ruud.jpg" class="card-img rounded-lg" alt="Ruud van Sloun">
+      <img src="/bytemal-2020/images/ruud.jpg" class="card-img rounded-lg my-auto" alt="Ruud van Sloun">
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title"><a href="https://www.tue.nl/en/research/researchers/ruud-van-sloun/">Ruud van Sloun</a></h5>
+        <h5 class="card-title">Ruud van Sloun</h5>
         <p class="card-text font-weight-bold">Assistant Professor in Signal Processing Systems at TU Eindhoven</p>
         <p class="card-text">Ruud works on advanced and intelligent sensing and signal processing algorithms, with a special focus on artificial intelligence in diagnostic ultrasound imaging.</p>
-        <button type="button" class="btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#ruudModal">
-        See more
-        </button>
+        <button type="button" class="btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#ruudModal">Read more</button>
+        <button type="button" class="btn btn-outline-primary btn-sm"><a href="https://www.tue.nl/en/research/researchers/ruud-van-sloun/">Website</a></button>
       </div>
     </div>
   </div>
@@ -27,16 +26,15 @@ layout:    default
 <div class="card mb-3" style="max-width: 960px;">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="/bytemal-2020/images/thomas.jpg" class="card-img rounded-lg" alt="Thomas Exner">
+      <img src="/bytemal-2020/images/thomas.jpg" class="card-img rounded-lg my-auto" alt="Thomas Exner">
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title"><a href="https://www.edelweissconnect.com/team-dc/thomas-exner">Thomas Exner</a></h5>
+        <h5 class="card-title">Thomas Exner</h5>
         <p class="card-text font-weight-bold">Chief Scientific Officer at Edelweiss Connect</p>
         <p class="card-text">Thomas is responsible for the scientific planning, execution and supervision of commercial projects in the area of data management and integrated testing strategy development for risk/safety assessment of chemicals, drugs and nano materials.</p>
-        <button type="button" class="btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#thomasModal">
-        See more
-        </button>
+        <button type="button" class="btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#thomasModal">Read more</button>
+        <button type="button" class="btn btn-outline-primary btn-sm"><a href="https://www.edelweissconnect.com/team-dc/thomas-exner">Website</a></button>
       </div>
     </div>
   </div>
@@ -45,16 +43,15 @@ layout:    default
 <div class="card mb-3" style="max-width: 960px;">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="/bytemal-2020/images/isabelle.jpg" class="card-img rounded-lg" alt="Isabelle Laforest-Lapointe">
+      <img src="/bytemal-2020/images/isabelle.jpg" class="card-img rounded-lg my-auto" alt="Isabelle Laforest-Lapointe">
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title"><a href="https://isabellelaforestlapointe.wordpress.com/">Isabelle LaForest-LaPointe</a></h5>
+        <h5 class="card-title">Isabelle LaForest-LaPointe</h5>
         <p class="card-text font-weight-bold">Assistant Professor in Applied Microbial Ecology at Sherbrooke University</p>
         <p class="card-text">Isabelle is a microbial ecologist using bioinformatics, statistics, and ecology to study host-microbe interactions on plants and in the human gut.</p>
-        <button type="button" class="btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#isabelleModal">
-        See more
-        </button>
+                <button type="button" class="btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#isabelleModal">Read more</button>
+        <button type="button" class="btn btn-outline-primary btn-sm"><a href="https://isabellelaforestlapointe.wordpress.com/">Website</a></button>
       </div>
     </div>
   </div>
