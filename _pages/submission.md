@@ -4,7 +4,7 @@ permalink: /submission-guidelines
 layout:    default
 ---
 
-## Submission Guidelines
+## Formatting & submission guidelines
 Participants are encouraged to submit their research in the form of a poster, video presentation, or other digital formats, with the restriction that it may be shared on the conference website. All submissions should be publicly available, either through hosting on the ByteMAL website or hosted externally. 
 
 Posters can be prepared in either a vertical or horizontal orientation. However, we encourage you to be creative and submit something with animation, interactive elements, or other features that would not be possible with a traditional static poster! For example, you could use an animated or interactive plot, HTML dashboard layout, or short video (e.g. record a mini slideshow). 
