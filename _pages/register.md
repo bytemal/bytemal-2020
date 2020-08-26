@@ -8,7 +8,7 @@ layout:    default
   <h1>Registration</h1>
   <p class="lead">To register to virtually attend byteMAL 2020 Online, please follow the link below and complete the google form</p>
   <hr class="my-4">
-	<a class="btn btn-primary btn-lg my-3" href="https://docs.google.com/forms/d/e/1FAIpQLSci9vJlwBg8W7eggVZu8zQQ7XDPPTHfOB4XVNoyr_-SvqiVcA/viewform?usp=sf_link" target="_blank" role="button">REGISTER HERE</a>
+	<a class="btn btn-primary btn-lg my-3" href="https://www.crowdcast.io/e/bytemal-2020" target="_blank" role="button">REGISTER HERE</a>
 	<p>Save the date: 14th October 2020 <a href="/bytemal-2020/byteMAL-2020-Online-Conference.ics" download>(click here to download .ical event)</a></p>
 </div>
 
