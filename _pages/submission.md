@@ -12,6 +12,6 @@ Posters can be prepared in either a vertical or horizontal orientation. However,
 Similar to traditional posters, other submission types should be usable and understandable by anyone reading and/or using it without the help of the author. For example, by a brief tutorial, explanatory text, or instructional video. If you want to share a link to a larger project, you must also submit a short written or visual summary!
 
 ## Submission procedure
-All posters and other submission types for the ByteMAL sharing session that are able to be hosted by the ByteMAL website should be submitted to byteMALevents@gmail.com by September 29th. In the case that the submission cannot be hosted on the ByteMAL website, a URL to the submission should be submitted by the same deadline.
+All posters and other submission types for the ByteMAL sharing session that are able to be hosted by the ByteMAL website should be submitted to byteMALevents@gmail.com by **September 29th**. In the case that the submission cannot be hosted on the ByteMAL website, a URL to the submission should be submitted by the same deadline.
 
 
