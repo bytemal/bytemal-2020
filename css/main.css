@@ -27,6 +27,16 @@ td{ padding: 10px; }
   box-sizing: border-box;
 }
 
+<style>
+.verticalhorizontal {
+    display: table-cell;
+    height: 300px;
+    text-align: center;
+    width: 300px;
+    vertical-align: middle;
+}
+</style>
+
 /* Float three columns side by side */
 .column {
   object-fit: contain; 
