@@ -21,7 +21,7 @@ layout: default
     tools, challenges and successes with people of similar mindset. 
     Participants will have the opportunity to be inspired by our interesting <a href="/bytemal-2020/program">keynote speakers</a>, 
     <a href="/bytemal-2020/submit">present their own work</a>, and <a href="/bytemal-2020/register">discuss</a> ideas, tools and approaches with each other.</p>
-    <img src="images/institute_logos.png" alt="institute logos" style="height:300px;max-height:100%;width:auto;">
+    <img src="images/institute_logos.png" alt="institute logos" style="height:450px;max-height:100%;width:auto;vertical-align:middle;">
   </div>
   
   <div class="col-sm-4 px-3">
