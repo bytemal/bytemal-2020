@@ -4,5 +4,6 @@ permalink: /testpdf
 layout:    poster-page
 ---
 
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://bytemal.github.io/bytemal-2020/submissions/files/Test.pdf" style="height=100%;width=100%" >
+<object width="800" height="500" type="application/pdf" data="https://bytemal.github.io/bytemal-2020/submissions/files/Test.pdf#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
+    <p>PDF failed to embed on your browser. Visit https://bytemal.github.io/bytemal-2020/submissions/files/Test.pdf</p>
+</object>
