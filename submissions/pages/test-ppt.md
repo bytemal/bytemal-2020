@@ -15,3 +15,7 @@ layout:    poster-page
 ## google slides for pptx file?
 
 <iframe src="//docs.google.com/gview?url=https://bytemal.github.io/bytemal-2020/submissions/files/Test.pptx&embedded=true" style="width:900px; height:600px;" frameborder="0"></iframe>
+
+## onedrive
+
+<iframe src="https://onedrive.live.com/embed?resid=A2151E2FC790ECA0%214410&amp;authkey=%21APQ7xBEQam55Q7c&amp;em=2&amp;wdAr=1.4439834024896265&amp;Embed=1" width="292px" height="327px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
