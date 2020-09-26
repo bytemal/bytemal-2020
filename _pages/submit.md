@@ -15,7 +15,7 @@ In addition, authors who submit an abstract will have a chance to present their 
 ## Call for Abstracts
 
 - Deadline: **September 27th**
-- Template for abstracts: [click here to download](https://github.com/bytemal/bytemal-2020/blob/master/ByteMAL2020_NAME_abstract_v2.docx?raw=true)
+- Template for abstracts: [click here to download](https://github.com/bytemal/bytemal-2020/blob/master/ByteMAL2020_NAME_abstract_v2.docx?raw=true) (suggested format, but not mandatory)
 - Submission of the abstract via email to [byteMALevents@gmail.com](mailto:byteMALevents@gmail.com?subject=Abstract Submission - Your Name)
 - We're happy to recieve any questions by email or on twitter! [@bytemal](https://twitter.com/byteMAL)
 
