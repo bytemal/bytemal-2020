@@ -4,7 +4,7 @@ permalink: /program
 layout:    default
 ---
 
-## Provisional schedule 
+## byteMAL 2020 online schedule 
 
 | Time (*CEST*) | Description |
 | :-----------: | :---------: |
@@ -28,7 +28,7 @@ layout:    default
 Share your work during our "sharing sessions." (*It's like a poster session but better!*)
 
 Registered participants can submit an abstract for an animated or interactive poster, short video or other media. 
-If your abstract is accepted, your submission will be hosted on our website and briefly presented during one of the small-group sharing sessions. 
+If your abstract is accepted, your submission will be hosted on our website and briefly presented during one of the small-group parallel sharing sessions. 
 Submitting a traditional poster format as a pdf is also possible!
 
 
