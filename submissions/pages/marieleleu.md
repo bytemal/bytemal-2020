@@ -1,6 +1,6 @@
 ---
 title:     Marie LeLeu
-permalink: /marieleleu
+permalink: /marie
 layout:    poster-page
 ---
 
