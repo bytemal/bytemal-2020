@@ -1,7 +1,7 @@
 ---
 title:     Balazs Erdos
 permalink: /balazserdos
-layout:    poster-page
+layout:    poster-page2
 ---
 
 ## Balazs Erdos
