@@ -1,6 +1,6 @@
 ---
 title:     Casper Jamin
-permalink: /casper-jamin
+permalink: /casperjamin
 layout:    poster-page
 ---
 
