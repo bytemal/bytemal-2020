@@ -1,5 +1,5 @@
 ---
-title:     Posters group B
+title:     Poster group B
 permalink: /postersb
 layout:    default
 ---
