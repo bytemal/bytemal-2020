@@ -1,5 +1,5 @@
 ---
-title:     Posters list
+title:     Posters group A
 permalink: /postersA
 layout:    default
 ---
