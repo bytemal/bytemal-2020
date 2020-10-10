@@ -6,9 +6,9 @@ layout:    default
 
 <h2 class="mb-4">Posters and other attendee submissions</h2>
 
-<div class="row">
+<h4 class="mb-4">Provisional grouping/order (not final, may change!)</h4>
   
-  <h4 class="mb-4">Provisional grouping/order (not final, may change!)</h4>
+<div class="row">
   
   <div class="col">
     
