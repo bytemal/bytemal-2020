@@ -15,14 +15,14 @@ layout:    default
     <h3 class="mb-3">Poster group A</h3>
     
     <ul>
-      <li>Giang Le - </li>
-      <li>Rebekka Koeck - </li>
-      <li>Zeynep Karagöz - </li>
-      <li>Gianluca Galazzo - </li>
-      <li>Daan van Beek - </li>
-      <li>Laurent Winckers - </li>
-      <li>Charlie Pieterman</li>
-      <li>Ammar Ammar</li>
+      <li><a href="/bytemal-2020/giangle">Giang Le</a></li>
+      <li><a href="/bytemal-2020/rebekkakoeck">Rebekka Koeck</a></li>
+      <li><a href="/bytemal-2020/zeynepkaragoz">Zeynep Karagöz</a></li>
+      <li><a href="/bytemal-2020/gianlucagalazzo">Gianluca Galazzo</a></li>
+      <li><a href="/bytemal-2020/daanvanbeek">Daan van Beek</a></li>
+      <li><a href="/bytemal-2020/laurentwinckers">Laurent Winckers</a></li>
+      <li><a href="/bytemal-2020/charliepieterman">Charlie Pieterman</a></li>
+      <li><a href="/bytemal-2020/ammarammar">Ammar Ammar</a></li>
     </ul>
     
   </div>
@@ -32,14 +32,14 @@ layout:    default
     <h3 class="mb-3">Poster group B</h3>
     
     <ul>
-      <li>Michalis Papachristos</li>
-      <li>Irene Hemel</li>
-      <li>Woosub Shin</li>
-      <li>Casper Jamin</li>
-      <li>Dimna Barbosa</li>
-      <li>Chang Lu</li>
-      <li>Balazs Erdos</li>
-      <li>Marie Leleu</li>
+      <li><a href="/bytemal-2020/michalispapachristos">Michalis Papachristos</li>
+      <li><a href="/bytemal-2020/irenehemel">Irene Hemel</li>
+      <li><a href="/bytemal-2020/woosubshin">Woosub Shin</li>
+      <li><a href="/bytemal-2020/casperjamin">Casper Jamin</li>
+      <li><a href="/bytemal-2020/dimnabarbosa">Dimna Barbosa</li>
+      <li><a href="/bytemal-2020/changlu">Chang Lu</li>
+      <li><a href="/bytemal-2020/balazserdos">Balazs Erdos</li>
+      <li><a href="/bytemal-2020/marieleleu">Marie Leleu</li>
     </ul>
     
   </div>
