@@ -8,6 +8,29 @@ layout:    default
 
 <h4 class="mb-4">Provisional grouping/order (not final, may change!)</h4>
   
+| Parallel<br>Session | Presenting<br>Author | Title |
+|:-:|:-:|:-:|
+| A | Giang Le | Isolation and functional characterization of hemi-cellulose breakdown enzymes from animal gut microbiome |
+| A | Rebekka Koeck | Multi-omic technologies to study the growth and development of preimplantation IVF embryos at single-cell resolution |
+| A | Zeynep Karagöz | Win, lose or tie: a computational model of competition at the cell–ECM interface |
+| A | Gianluca Galazzo | Infant gut microbial community assembly and maturation is linked to subsequent atopy development during childhood |
+| A | Daan van Beek | EASEA: Easy Allele Specific Expression Analysis - a novel computational biology pipeline with direct clinical application |
+| A | Laurent Winckers | Expanding the eNanoMapper Ontology |
+| A | Charlie Pieterman | Describing Critical Transitions in Non-Alcoholic Fatty Liver Disease |
+| A | Ammar Ammar | A semi-automated workflow for FAIR maturity indicators in the life sciences |
+| B | Michalis Papachristos | Cellular Senescence |
+| B | Irene Hemel | The mitochondrial puzzle; identification of new pieces in mitochondrial dynamics |
+| B | Woosub Shin | Identifying Genetic Interactions Between Pathways: A 22q11.2 Deletion Syndrome Study |
+| B | Casper Jamin | Unravelling the role of mobile genetic elements in the dissemination of multidrug resistance; spread of a mosaic multidrug resistant transposon |
+| B | Dimna Barbosa | Cellular senescence and constraint-based modelling |
+| B | Chang Lu | Towards the complete picture: computational strategies to identify Mass Spectrometry Imaging derived molecular fingerprints associated with inflammatory cell components |
+| B | Balazs Erdos | Exploring the insulin-mediated glucose homeostasis using a computational model |
+| B | Marie Leleu | Chlamydiales Implication in the Evolution of Archaeplastida |
+|  |  |  |
+{:.table-bordered .table-hover .my-4}
+
+<br><br>
+  
 <div class="row">
   
   <div class="col">
