@@ -24,7 +24,11 @@ layout:    default
   
 <div class="container">
   
-  <script type="text/javascript" src="http://www.easypolls.net/ext/scripts/emPoll.js?p=5f819c7be4b0899ae5a11830"></script><a class="OPP-powered-by" href="https://www.easypolls.net/" style="text-decoration:none;"><div style="font: 9px arial; color: gray;">online polls</div></a>
+  <iframe
+    src="https://www.easypolls.net/poll.html?p=5f819c7be4b0899ae5a11830"
+    title="voting page" width="90%" height="800">
+  </iframe>
+  
   
 </div>
 
