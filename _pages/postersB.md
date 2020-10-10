@@ -6,7 +6,7 @@ layout:    default
 
 <h2 class="mb-4">Posters and other attendee submissions</h2>
 
-<nav>
+<nav class="my-4">
   <ul class="pagination pagination-lg justify-content-center">
     <li class="page-item"><a class="page-link" href="/bytemal-2020/postersa">Parallel Session A</a></li>
     <li class="page-item active">
@@ -20,7 +20,7 @@ layout:    default
 </nav>
 
 
-<h4 class="mb-4">Provisional grouping/order (not final, may change!)</h4>
+<h4 class="my-4">Provisional grouping/order (not final, may change!)</h4>
   
 | Parallel&nbsp;Session | Presenting&nbsp;Author | Title |
 |:-:|:-:|:-:|

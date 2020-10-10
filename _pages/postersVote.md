@@ -6,7 +6,7 @@ layout:    default
 
 <h2 class="mb-4">Posters and other attendee submissions</h2>
 
-<nav>
+<nav class="my-4">
   <ul class="pagination pagination-lg justify-content-center">
     <li class="page-item"><a class="page-link" href="/bytemal-2020/postersa">Parallel Session A</a></li>
     <li class="page-item"><a class="page-link" href="/bytemal-2020/postersb">Parallel Session B</a></li>
@@ -20,7 +20,7 @@ layout:    default
 </nav>
 
 
-<h4 class="mb-4">Vote for your favourite poster</h4>
+<h4 class="my-4">Vote for your favourite poster</h4>
   
 <div class="container">
   
