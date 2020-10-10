@@ -1,6 +1,6 @@
 ---
 title:     Posters group B
-permalink: /postersB
+permalink: /postersb
 layout:    default
 ---
 
@@ -8,7 +8,7 @@ layout:    default
 
 <nav>
   <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item"><a class="page-link" href="/bytemal-2020/postersA">Parallel Session A</a></li>
+    <li class="page-item"><a class="page-link" href="/bytemal-2020/postersa">Parallel Session A</a></li>
     <li class="page-item active">
       <span class="page-link">
         Parallel Session B

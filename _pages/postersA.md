@@ -1,6 +1,6 @@
 ---
 title:     Posters group A
-permalink: /postersA
+permalink: /postersa
 layout:    default
 ---
 
@@ -14,7 +14,7 @@ layout:    default
         <span class="sr-only">(current)</span>
       </span>
     </li>
-    <li class="page-item"><a class="page-link" href="/bytemal-2020/postersB">Parallel Session B</a></li>
+    <li class="page-item"><a class="page-link" href="/bytemal-2020/postersb">Parallel Session B</a></li>
     <li class="page-item"><a class="page-link" href="/bytemal-2020/postersVote">Vote for your favourite!</a></li>
   </ul>
 </nav>

@@ -8,8 +8,8 @@ layout:    default
 
 <nav>
   <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item"><a class="page-link" href="/bytemal-2020/postersA">Parallel Session A</a></li>
-    <li class="page-item"><a class="page-link" href="/bytemal-2020/postersB">Parallel Session B</a></li>
+    <li class="page-item"><a class="page-link" href="/bytemal-2020/postersa">Parallel Session A</a></li>
+    <li class="page-item"><a class="page-link" href="/bytemal-2020/postersb">Parallel Session B</a></li>
     <li class="page-item active">
       <span class="page-link">
         Vote for your favourite!
