@@ -7,7 +7,7 @@ layout:    default
 <h2 class="mb-4">Posters and other attendee submissions</h2>
 
 <nav class="my-4">
-  <ul class="pagination pagination-lg justify-content-center">
+  <ul class="pagination pagination-lg">
     <li class="page-item"><a class="page-link" href="/bytemal-2020/postersa">Parallel Session A</a></li>
     <li class="page-item active">
       <span class="page-link">
