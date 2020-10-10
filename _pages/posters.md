@@ -32,14 +32,14 @@ layout:    default
     <h3 class="mb-3">Poster group B</h3>
     
     <ul>
-      <li><a href="/bytemal-2020/michalispapachristos">Michalis Papachristos</li>
-      <li><a href="/bytemal-2020/irenehemel">Irene Hemel</li>
-      <li><a href="/bytemal-2020/woosubshin">Woosub Shin</li>
-      <li><a href="/bytemal-2020/casperjamin">Casper Jamin</li>
-      <li><a href="/bytemal-2020/dimnabarbosa">Dimna Barbosa</li>
-      <li><a href="/bytemal-2020/changlu">Chang Lu</li>
-      <li><a href="/bytemal-2020/balazserdos">Balazs Erdos</li>
-      <li><a href="/bytemal-2020/marieleleu">Marie Leleu</li>
+      <li><a href="/bytemal-2020/michalispapachristos">Michalis Papachristos</a></li>
+      <li><a href="/bytemal-2020/irenehemel">Irene Hemel</a></li>
+      <li><a href="/bytemal-2020/woosubshin">Woosub Shin</a></li>
+      <li><a href="/bytemal-2020/casperjamin">Casper Jamin</a></li>
+      <li><a href="/bytemal-2020/dimnabarbosa">Dimna Barbosa</a></li>
+      <li><a href="/bytemal-2020/changlu">Chang Lu</a></li>
+      <li><a href="/bytemal-2020/balazserdos">Balazs Erdos</a></li>
+      <li><a href="/bytemal-2020/marieleleu">Marie Leleu</a></li>
     </ul>
     
   </div>
