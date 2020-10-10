@@ -20,7 +20,10 @@ layout:    default
 </nav>
 
 
-<h4 class="my-4">Provisional grouping/order (not final, may change!)</h4>
+Click on the author's name to visit their digital poster and attend Parallel Session B to see these posters presented on Crowdcast. 
+
+<a href="https://www.crowdcast.io/e/bytemal-2020/5">Direct Crowdcast link</a> available at 14:00 on October 14. 
+
   
 | Parallel&nbsp;Session | Presenting&nbsp;Author | Title |
 |:-:|:-:|:-:|
