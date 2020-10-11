@@ -27,11 +27,11 @@ Click on the author's name to visit their digital poster and attend Parallel Ses
   
 | Parallel&nbsp;Session | Presenting&nbsp;Author | Title |
 |:-:|:-:|:-:|
-| B | <a href="/bytemal-2020/posters">Michalis Papachristos</a> | Cellular Senescence |
+| B | <a href="/bytemal-2020/postersb">Michalis Papachristos</a> | Cellular Senescence |
 | B | <a href="/bytemal-2020/irenehemel">Irene Hemel</a> | The mitochondrial puzzle; identification of new pieces in mitochondrial dynamics |
-| B | <a href="/bytemal-2020/posters">Woosub Shin</a> | Identifying Genetic Interactions Between Pathways: A 22q11.2 Deletion Syndrome Study |
+| B | <a href="/bytemal-2020/postersb">Woosub Shin</a> | Identifying Genetic Interactions Between Pathways: A 22q11.2 Deletion Syndrome Study |
 | B | <a href="/bytemal-2020/casperjamin">Casper Jamin</a> | Unravelling the role of mobile genetic elements in the dissemination of multidrug resistance; spread of a mosaic multidrug resistant transposon |
-| B | <a href="/bytemal-2020/posters">Dimna Barbosa</a> | Cellular senescence and constraint-based modelling |
+| B | <a href="/bytemal-2020/postersb">Dimna Barbosa</a> | Cellular senescence and constraint-based modelling |
 | B | <a href="/bytemal-2020/changlu">Chang Lu</a> | Towards the complete picture: computational strategies to identify Mass Spectrometry Imaging derived molecular fingerprints associated with inflammatory cell components |
 | B | <a href="/bytemal-2020/balazserdos">Balazs Erdos</a> | Exploring the insulin-mediated glucose homeostasis using a computational model |
 | B | <a href="/bytemal-2020/marieleleu">Marie Leleu</a> | Chlamydiales Implication in the Evolution of Archaeplastida |
