@@ -27,7 +27,7 @@ Click on the author's name to visit their digital poster and attend Parallel Ses
   
 | Parallel&nbsp;Session | Presenting&nbsp;Author | Title |
 |:-:|:-:|:-:|
-| B | <a href="/bytemal-2020/postersb">Michalis Papachristos</a> | Cellular Senescence |
+| B | <a href="/bytemal-2020/michalispapachristos">Michalis Papachristos</a> | Use of Constraint Based Methods for Analysis of Senescence |
 | B | <a href="/bytemal-2020/irenehemel">Irene Hemel</a> | The mitochondrial puzzle; identification of new pieces in mitochondrial dynamics |
 | B | <a href="/bytemal-2020/postersb">Woosub Shin</a> | Identifying Genetic Interactions Between Pathways: A 22q11.2 Deletion Syndrome Study |
 | B | <a href="/bytemal-2020/casperjamin">Casper Jamin</a> | Unravelling the role of mobile genetic elements in the dissemination of multidrug resistance; spread of a mosaic multidrug resistant transposon |
