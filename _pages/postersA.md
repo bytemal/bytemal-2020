@@ -29,7 +29,7 @@ Click on the author's name to visit their digital poster and attend Parallel Ses
 |:-:|:-:|:-:|
 | A | <a href="/bytemal-2020/giangle">Giang Le</a> | Isolation and functional characterization of hemi-cellulose breakdown enzymes from animal gut microbiome |
 | A | <a href="/bytemal-2020/postersa">Rebekka Koeck</a> | Multi-omic technologies to study the growth and development of preimplantation IVF embryos at single-cell resolution |
-| A | <a href="/bytemal-2020/postersa">Zeynep Karagöz</a> | Win, lose or tie: a computational model of competition at the cell–ECM interface |
+| A | <a href="/bytemal-2020/zeynepkaragoz">Zeynep Karagöz</a> | Win, lose or tie: a computational model of competition at the cell–ECM interface |
 | A | <a href="/bytemal-2020/gianlucagalazzo">Gianluca Galazzo</a> | Infant gut microbial community assembly and maturation is linked to subsequent atopy development during childhood |
 | A | <a href="/bytemal-2020/daanvanbeek">Daan van Beek</a> | EASEA: Easy Allele Specific Expression Analysis - a novel computational biology pipeline with direct clinical application |
 | A | <a href="/bytemal-2020/postersa">Laurent Winckers</a> | Expanding the eNanoMapper Ontology |
