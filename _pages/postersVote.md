@@ -21,9 +21,7 @@ layout:    default
 
 
 <h4 class="my-4">Vote for your favourite poster</h4>
-  
-This poll is currently a placeholder. The real poll will be available here on the day of the [conference](https://www.crowdcast.io/e/bytemal-2020/).
-  
+
 <div class="container">
   
   <iframe
