@@ -29,7 +29,7 @@ Click on the author's name to visit their digital poster and attend Parallel Ses
 |:-:|:-:|:-:|
 | B | <a href="/bytemal-2020/michalispapachristos">Michalis Papachristos</a> | Use of Constraint Based Methods for Analysis of Senescence |
 | B | <a href="/bytemal-2020/irenehemel">Irene Hemel</a> | The mitochondrial puzzle; identification of new pieces in mitochondrial dynamics |
-| B | <a href="/bytemal-2020/postersb">Woosub Shin</a> | Identifying Genetic Interactions Between Pathways: A 22q11.2 Deletion Syndrome Study |
+| B | <a href="/bytemal-2020/woosubshin">Woosub Shin</a> | Identifying Genetic Interactions Between Pathways: A 22q11.2 Deletion Syndrome Study |
 | B | <a href="/bytemal-2020/casperjamin">Casper Jamin</a> | Unravelling the role of mobile genetic elements in the dissemination of multidrug resistance; spread of a mosaic multidrug resistant transposon |
 | B | <a href="/bytemal-2020/dimnabarbosa">Dimna Barbosa</a> | Senescent cells metabolic modelling |
 | B | <a href="/bytemal-2020/changlu">Chang Lu</a> | Towards the complete picture: computational strategies to identify Mass Spectrometry Imaging derived molecular fingerprints associated with inflammatory cell components |
