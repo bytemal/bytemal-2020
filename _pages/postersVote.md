@@ -27,7 +27,7 @@ This poll is currently a placeholder. The real poll will be available here on th
 <div class="container">
   
   <iframe
-    src="https://www.easypolls.net/poll.html?p=5f819c7be4b0899ae5a11830"
+    src="https://www.easypolls.net/poll.html?p=5f85fd5be4b09cc6ebea53dc"
     title="voting page" width="90%" height="800">
   </iframe>
   
